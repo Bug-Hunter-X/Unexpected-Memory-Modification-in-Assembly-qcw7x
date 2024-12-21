@@ -1,0 +1,1 @@
+This repository contains an example of an uncommon error in assembly code related to memory modification. The bug involves incorrect handling of memory addresses, which leads to unexpected behavior. The solution provides a corrected version of the code.
